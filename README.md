@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prawinraj" alt="prawinraj" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development & DAS**
+- 🔭 I’m currently working on **Web Development & DSA**
 
 - 🌱 I’m currently learning **Frameworks**
 
